@@ -1,4 +1,9 @@
+
 <h1 align="center">Conversor de Unidade</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/53982668/122136013-09918200-ce18-11eb-978f-912d5517a0ec.gif"/>  
+</div>
+
 <h2>Projeto</h2>
 App de converter unidades de medidas
 <h2>Tecnologia</h2>
